@@ -1,0 +1,46 @@
+@startuml practice1
+
+'################################
+' ヘッダ・フッター
+'################################
+header Page Header
+footer Page %page% of %lastpage%
+
+
+'################################
+' 類分子
+'################################
+participant "Participant 1" as Foo1
+participant "Participant 2" as Foo2
+
+
+'################################
+' タイトル
+'################################
+title Example Title
+
+
+'################################
+' シーケンス本文
+'################################
+
+'### 要求 -> 応答
+Foo1 -> Foo2 : Request 1
+Foo1 <- Foo2 : Ack(OK) 1
+
+'### 分割線
+== 分割線 ==
+Foo1 -> Foo2 : Request 1-A
+Foo1 <- Foo2 : Ack(OK) 1-A
+
+'### 要求 -> 応答(2ページ目)
+newpage
+Foo1 -> Foo2 : Request 2
+Foo1 <- Foo2 : Ack(OK) 2
+
+'### 要求 -> 応答(3ページ目) +タイトル付き
+newpage A title for the\nlast page
+Foo1 -> Foo2 : Request 3
+Foo1 <- Foo2 : Ack(OK) 3
+
+@enduml
