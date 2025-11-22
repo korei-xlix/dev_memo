@@ -12,8 +12,8 @@
 
 ## 目次 / Table of contents
 
-* [readme.md](../readme.md)
-  * [リポジトリの利用規約](../readme.md#リポジトリの利用規約--repository-terms-of-use)
+* [readme.md](/readme.md)
+  * [リポジトリの利用規約](/readme.md#リポジトリの利用規約--repository-terms-of-use)
 
 * システム管理系
   * [環境](#環境)
@@ -482,7 +482,7 @@ $ locale
 
 ***
 ***
-[[トップへ戻る]](../readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

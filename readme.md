@@ -12,17 +12,17 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](./readme.md)
-  * [利用にあたって (Important notices for use)](#利用にあたっての注意事項--important-notices-for-use)
+* [readme.md](/readme.md)
+  * [利用にあたって (Important notices for use)](/readme.md#利用にあたっての注意事項--important-notices-for-use)
 
 * コーディング
-  * [コーディング規約 (スタンダード)](./coding/standard.md)
-  * [MySQLメモ](./coding/mysql.md)
-  * [UML図メモ](./coding/uml.md)
-    * [UMLサンプル](./coding/uml.pu)
+  * [コーディング規約 (スタンダード)](/coding/standard.md)
+  * [MySQLメモ](/coding/mysql.md)
+  * [UML図メモ](/coding/uml.md)
+    * [UMLサンプル](/coding/uml.pu)
 
 * オペレーティング
-  * [Linuxメモ](./operate/linux_memo.md)
+  * [Linuxメモ](/operate/linux_memo.md)
   
 
 
@@ -70,7 +70,7 @@
 
 ***
 ***
-[[トップへ戻る]](./readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

@@ -14,8 +14,8 @@ PHPやJavaScriptなど非オブジェクト指向型言語を使用する際、�
 
 ## 目次
 
-* [readme.md](../readme.md)
-  * [リポジトリの利用規約](../readme.md#リポジトリの利用規約--repository-terms-of-use)
+* [readme.md](/readme.md)
+  * [リポジトリの利用規約](/readme.md#リポジトリの利用規約--repository-terms-of-use)
 
 * [オブジェクトの参照範囲の明示](#オブジェクトの参照範囲の明示)
 
@@ -137,7 +137,7 @@ pythonの場合、関数に設けられた参照レベルは少ないので、�
 
 ***
 ***
-[[トップへ戻る]](../readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
