@@ -15,8 +15,8 @@ Plank UMLの記述にご利用ください。
 
 ## 目次
 
-* [readme.md](../readme.md)
-  * [リポジトリの利用規約](../readme.md#リポジトリの利用規約--repository-terms-of-use)
+* [readme.md](/readme.md)
+  * [リポジトリの利用規約](/readme.md#リポジトリの利用規約--repository-terms-of-use)
   * [参考 (Material)](#参考--material)
 
 * [VS CodeとPlank UMLのセットアップ](#vs-codeとplank-umlのセットアップ)
@@ -856,7 +856,7 @@ ClassA o-- ClassD
 
 ***
 ***
-[[トップへ戻る]](../readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

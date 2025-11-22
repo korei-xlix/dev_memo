@@ -12,8 +12,8 @@
 
 ## 目次 / Table of contents
 
-* [readme.md](../readme.md)
-  * [リポジトリの利用規約](../readme.md#リポジトリの利用規約--repository-terms-of-use)
+* [readme.md](/readme.md)
+  * [リポジトリの利用規約](/readme.md#リポジトリの利用規約--repository-terms-of-use)
 
 * [よく使うコマンド](#よく使うコマンド)
 
@@ -413,7 +413,7 @@ v8.4からmysql_native_passwordは非推奨となり、新方式であるcaching
 
 ***
 ***
-[[トップへ戻る]](../readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
